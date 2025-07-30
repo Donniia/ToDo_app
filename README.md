@@ -12,7 +12,7 @@ A Flutter project designed to help users organize and track their daily activiti
 
 ## App ScreenShots
 
-Here are some screeshots for the application:
+Here are some screenshots for the application:
 
 <p>
 <img src="Assets/screenShots/t1.png"  width="250">

@@ -23,4 +23,4 @@ Here are some screenshots for the application:
 
 ### 📽️ Demo Video
 
-[▶️ Watch the video](https://drive.google.com/file/d/12AlZwLngTAVxEHLXkzdpwz8JJ0SqAAV3/view?usp=drive_link)
+[▶️ Watch the video](https://drive.google.com/file/d/12AlZwLngTAVxEHLXkzdpwz8JJ0SqAAV3/view?usp=sharing)
